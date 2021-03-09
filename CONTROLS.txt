@@ -1,0 +1,3 @@
+To Go Left = Left Arrow
+To Go Right = Right Arrow
+To Drop The Crate = SPACE BAR
